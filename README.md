@@ -1,6 +1,6 @@
 # DKT technical discussion
 
-This repository hosts the [wiki](https://github.com/dkt2-project/technical-discussion/wiki] and [technical discussion forum](https://github.com/dkt2-project/technical-discussion/issues) of the DKT project.
+This repository hosts the [wiki](https://github.com/dkt2-project/technical-discussion/wiki) and [technical discussion forum](https://github.com/dkt2-project/technical-discussion/issues) of the DKT project.
 
 ## Useful links
 
